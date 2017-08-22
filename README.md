@@ -1,1 +1,2 @@
-# datasheet
+# 40k datasheet editor
+React, coffeescript
